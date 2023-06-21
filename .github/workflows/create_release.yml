@@ -37,7 +37,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
-          default-branch: dev
       # - name: publish
       #   if: ${{ steps.release.outputs.release_created }}
       #   run: npm publish
