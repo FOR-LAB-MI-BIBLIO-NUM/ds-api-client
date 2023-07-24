@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.5.0](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/compare/v1.4.1...v1.5.0) (2023-07-24)
+
+
+### Features
+
+* Add engines recommandation ([343f1c8](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/343f1c87a7650ab1a78b0829e8ebfdae5d7a1d63))
+* adding one new mutation ([#50](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/issues/50)) ([4be7be2](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/4be7be27543338131243d07efccee3c862353b9e))
+* ci for create release ([b1ef01b](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/b1ef01bc74fafeeb2cba3051e3c671d763ab576e))
+* create branch release from pull request of branch dev ([3d81c9f](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/3d81c9ff69ca4a2729aa9b9f565b4af5a9e73652))
+* create release on branch dev ([ed6b2dd](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/ed6b2ddef839cb49090a530950163cb8fabaa2b6))
+
+
+### Bug Fixes
+
+* :construction_worker: launch in dev ([b818c52](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/b818c529f6e5dc8d53d72804a05387a10d16428e))
+* add readme to generate types from schema graphql ([3a31b30](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/3a31b301366562a25ba7077a53191ec2c1d0eb79))
+* add typename in champs ([9a0da1a](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/9a0da1a944ccc570330bd350cd98b90d3df33714))
+* add typename in demandeur of dossier ([8671a5b](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/8671a5ba44c7fde1f648975342c3c0afbbbb00c2))
+* add variable env NODE_TLS_REJECT_UNAUTHORIZED ([1559e9b](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/1559e9bba6aea8690ae7ceeec2af2dcb1198c845))
+* add variable env NODE_TLS_REJECT_UNAUTHORIZED for workflow create release ([589bfec](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/589bfec9a99c51ab6f920ff8138f7caeddeda5e5))
+* ci publish ([206dcac](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/206dcac8950803ae17540338a391966270aa08ae))
+* ci to create release ([3051c99](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/3051c99d37849fbe0ca83edf9cf0b8fbadc7c672))
+* message log ([59edffe](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/59edffe247bf835f59b6dfe52d9056092f0c7418))
+* remove  enum and transform to type ([92e7a55](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/92e7a55679c82656dfbf7ef69ab374c975d189de))
+* update dependencies ([1b78393](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/1b783939d17be40bf4d408499c37806274b51316))
+* update node and branch default ([2f89bbc](https://github.com/FOR-LAB-MI-BIBLIO-NUM/ds-api-client/commit/2f89bbc64131d2b2e991c6f073eb160b174b136c))
+
 ## [1.4.1](https://github.com/dnum-mi/ds-api-client/compare/v1.4.0...v1.4.1) (2023-06-14)
 
 
